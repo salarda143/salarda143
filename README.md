@@ -50,7 +50,7 @@ Full Stack Developer passionate about creating innovative solutions and explorin
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Voting System** | A comprehensive voting management system with user authentication, ballot management, and real-time results tracking | ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Voting System** | A comprehensive voting management system with user authentication, ballot management, and real-time results tracking | ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) |
 | **Ina-Ani** | A full-featured e-commerce platform with product management, user authentication, and secure payment processing | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **iCare** | An offline mobile application for healthcare management and patient monitoring | ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) |
 
@@ -60,10 +60,6 @@ Full Stack Developer passionate about creating innovative solutions and explorin
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
