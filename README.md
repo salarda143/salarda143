@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vb,mysql,python,tensorflow&theme=dark" />
 </div>
 
 ## 📫 Connect With Me
