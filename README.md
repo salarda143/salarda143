@@ -1,11 +1,8 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3584E4&center=false&vCenter=true&width=435&lines=Hey+there!+I'm+Salarda;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-[![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://web.facebook.com/PJS.ESCABUSA/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paul_jr.salarda/)
+[![Email](https://img.shields.io/badge/Email-salardapaul9%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:salardapaul9@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=salarda143&style=flat-square&color=blue" alt="Profile views"/>
@@ -27,9 +24,6 @@ Full Stack Developer passionate about creating innovative solutions and explorin
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salarda143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarda143&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salarda143&theme=tokyonight&hide_border=true" />
-</div>
 </details>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Skills & Technologies
@@ -40,14 +34,14 @@ Full Stack Developer passionate about creating innovative solutions and explorin
 |----------|-------------|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%230076D6.svg?style=for-the-badge&logo=ai&logoColor=white) |
 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,vb,mysql,python,tensorflow,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vb,mysql,python,tensorflow,git,github&perline=6" />
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
@@ -56,7 +50,7 @@ Full Stack Developer passionate about creating innovative solutions and explorin
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Project 1** | Description of your first project | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Voting System** | A comprehensive voting management system with user authentication, ballot management, and real-time results tracking | ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Project 2** | Description of your second project | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 </div>
@@ -96,7 +90,7 @@ Full Stack Developer passionate about creating innovative solutions and explorin
   <a href="https://github.com/salarda143">
     <img src="https://img.shields.io/badge/Follow_me-%23100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="follow"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:salardapaul9@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </div>
